@@ -2,4 +2,4 @@
 Create a repo on GitHub and use the code locally
 I use this repo to learn GitHub
 
-This is a local change!
+This is a local change VSC!
